@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\HelloWorld\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\dev\\LearningGit\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\dev\\HelloWorld\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\dev\\LearningGit\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Isaac\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\HelloWorld\\ConsoleApp\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\dev\\LearningGit\\ConsoleApp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
